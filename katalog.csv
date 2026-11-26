@@ -1,0 +1,10 @@
+id_barang,nama_barang,kategori,harga_per_hari,stok
+101,iPhone 13,iPhone,150000,1
+102,iPhone 13 Pro,iPhone,180000,2
+103,iPhone 14,iPhone,250000,3
+104,iPhone 14 Pro,iPhone,280000,1
+105,iPhone 15,iPhone,350000,2
+106,iPhone 15 Pro,iPhone,400000,3
+201,Sony ZV-E10,Kamera,300000,4
+202,Canon EOS R50,Kamera,180000,1
+203,Fujifilm X-M5,Kamera,400000,1

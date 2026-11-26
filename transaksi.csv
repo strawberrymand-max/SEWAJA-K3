@@ -1,0 +1,5 @@
+id_transaksi,username,nama_barang,durasi_hari,total_biaya,status
+1001,strawberry,Canon EOS R50,2,360000,Disewa
+1002,mandmand,iPhone 13,4,600000,Disewa
+1003,mandmand,iPhone 15 Pro,4,1520000,Dikembalikan
+1004,mandmand,iPhone 13,4,600000,Disewa
